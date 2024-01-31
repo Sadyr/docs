@@ -6,9 +6,7 @@
 
 
 ```shell
-almalinux@server:~$ aws --version
-aws-cli/2.11.11 Python/3.11.2 Linux/6.5.0-15-generic exe/x86_64.ubuntu.22 prompt/off
-
+aws --version
 ```
 
 ## Windows
