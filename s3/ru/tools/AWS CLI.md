@@ -5,6 +5,12 @@
 
 ```bash
 aws --version
+
+```
+
+```console
+foo@bar:~$ whoami
+foo
 ```
 ### Установка через пакетный менеджер дистрибутива
 ## Windows
